@@ -113,7 +113,7 @@
         layer_3 {
             bindings = <
 &trans  &trans  &trans      &trans      &trans      &trans    &mmv MOVE_UP      &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &mkp LCLK   &mkp MCKL   &mkp RCLK   &trans    &mmv MOVE_DOWN    &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &mkp LCLK   &mkp MCLK   &mkp RCLK   &trans    &mmv MOVE_DOWN    &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans      &trans      &trans      &trans    &mmv MOVE_LEFT    &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans      &trans      &trans      &trans    &mmv MOVE_RIGHT   &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans      &trans      &trans      &trans    &mkp LCLK         &trans  &trans  &trans  &trans  &trans
